@@ -1,11 +1,11 @@
 {
   "name": "yimi_topython",
   "version": "1.0.0",
-  "author": "ymi1111",
+  "author": "0xthree3",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ymi1111/yimi_topython"
+    "url": "https://github.com/0xthree3/yimi_topython"
   },
   "scripts": {
     "serve": "vue-cli-service serve",
